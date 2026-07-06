@@ -1,7 +1,6 @@
 # 🛡️ Security Testing Lab
 
-Security testing and validation mechanisms implemented in the HealMate graduation project.
-
+Security testing and validation techniques implemented in healthcare application security.
 ## Implemented Security Tests
 
 ### Authentication Testing
