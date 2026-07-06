@@ -2,7 +2,7 @@
 
 This repository documents the security testing and validation techniques implemented in the HealMate graduation project.
 
-## 🔐 Implemented Security Controls
+##  Implemented Security Controls
 
 - JWT Token Validation
 - Authentication Testing
@@ -20,7 +20,7 @@ This repository documents the security testing and validation techniques impleme
 - Dependency Injection Security Audit
 - Health Monitoring & Availability Checks
 
-## 🛠️ Technologies
+##  Technologies
 
 - ASP.NET
 - JWT
